@@ -64,76 +64,9 @@ library
       Kubernetes.OpenAPI.ImportMappings
   exposed-modules:
       Kubernetes.OpenAPI
-      Kubernetes.OpenAPI.API.Admissionregistration
-      Kubernetes.OpenAPI.API.AdmissionregistrationV1
-      Kubernetes.OpenAPI.API.AdmissionregistrationV1beta1
-      Kubernetes.OpenAPI.API.Apiextensions
-      Kubernetes.OpenAPI.API.ApiextensionsV1
-      Kubernetes.OpenAPI.API.ApiextensionsV1beta1
-      Kubernetes.OpenAPI.API.Apiregistration
-      Kubernetes.OpenAPI.API.ApiregistrationV1
-      Kubernetes.OpenAPI.API.ApiregistrationV1beta1
-      Kubernetes.OpenAPI.API.Apis
-      Kubernetes.OpenAPI.API.Apps
-      Kubernetes.OpenAPI.API.AppsV1
-      Kubernetes.OpenAPI.API.Authentication
-      Kubernetes.OpenAPI.API.AuthenticationV1
-      Kubernetes.OpenAPI.API.AuthenticationV1beta1
-      Kubernetes.OpenAPI.API.Authorization
-      Kubernetes.OpenAPI.API.AuthorizationV1
-      Kubernetes.OpenAPI.API.AuthorizationV1beta1
-      Kubernetes.OpenAPI.API.Autoscaling
-      Kubernetes.OpenAPI.API.AutoscalingV1
-      Kubernetes.OpenAPI.API.AutoscalingV2beta1
-      Kubernetes.OpenAPI.API.AutoscalingV2beta2
-      Kubernetes.OpenAPI.API.Batch
-      Kubernetes.OpenAPI.API.BatchV1
-      Kubernetes.OpenAPI.API.BatchV1beta1
-      Kubernetes.OpenAPI.API.BatchV2alpha1
-      Kubernetes.OpenAPI.API.Certificates
-      Kubernetes.OpenAPI.API.CertificatesV1
-      Kubernetes.OpenAPI.API.CertificatesV1beta1
-      Kubernetes.OpenAPI.API.Coordination
-      Kubernetes.OpenAPI.API.CoordinationV1
-      Kubernetes.OpenAPI.API.CoordinationV1beta1
-      Kubernetes.OpenAPI.API.Core
       Kubernetes.OpenAPI.API.CoreV1
-      Kubernetes.OpenAPI.API.CustomObjects
-      Kubernetes.OpenAPI.API.Discovery
-      Kubernetes.OpenAPI.API.DiscoveryV1beta1
-      Kubernetes.OpenAPI.API.Events
-      Kubernetes.OpenAPI.API.EventsV1
-      Kubernetes.OpenAPI.API.EventsV1beta1
-      Kubernetes.OpenAPI.API.Extensions
-      Kubernetes.OpenAPI.API.ExtensionsV1beta1
-      Kubernetes.OpenAPI.API.FlowcontrolApiserver
-      Kubernetes.OpenAPI.API.FlowcontrolApiserverV1alpha1
-      Kubernetes.OpenAPI.API.FlowcontrolApiserverV1beta1
-      Kubernetes.OpenAPI.API.InternalApiserver
-      Kubernetes.OpenAPI.API.InternalApiserverV1alpha1
       Kubernetes.OpenAPI.API.Logs
-      Kubernetes.OpenAPI.API.Networking
-      Kubernetes.OpenAPI.API.NetworkingV1
-      Kubernetes.OpenAPI.API.NetworkingV1beta1
-      Kubernetes.OpenAPI.API.Node
-      Kubernetes.OpenAPI.API.NodeV1
-      Kubernetes.OpenAPI.API.NodeV1alpha1
-      Kubernetes.OpenAPI.API.NodeV1beta1
       Kubernetes.OpenAPI.API.Openid
-      Kubernetes.OpenAPI.API.Policy
-      Kubernetes.OpenAPI.API.PolicyV1beta1
-      Kubernetes.OpenAPI.API.RbacAuthorization
-      Kubernetes.OpenAPI.API.RbacAuthorizationV1
-      Kubernetes.OpenAPI.API.RbacAuthorizationV1alpha1
-      Kubernetes.OpenAPI.API.RbacAuthorizationV1beta1
-      Kubernetes.OpenAPI.API.Scheduling
-      Kubernetes.OpenAPI.API.SchedulingV1
-      Kubernetes.OpenAPI.API.SchedulingV1alpha1
-      Kubernetes.OpenAPI.API.SchedulingV1beta1
-      Kubernetes.OpenAPI.API.Storage
-      Kubernetes.OpenAPI.API.StorageV1
-      Kubernetes.OpenAPI.API.StorageV1alpha1
-      Kubernetes.OpenAPI.API.StorageV1beta1
       Kubernetes.OpenAPI.API.Version
       Kubernetes.OpenAPI.API.WellKnown
       Kubernetes.OpenAPI.Client
