@@ -1,0 +1,10 @@
+
+resolver: lts-19.33
+
+extra-deps:
+- oidc-client-0.6.0.0
+- jose-jwt-0.9.5
+
+packages:
+- kubernetes
+- kubernetes-client
